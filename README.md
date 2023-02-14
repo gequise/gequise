@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">I'm Gustavo, a full-time Automation Engineer 👨‍💻 working remotely since 2018🚀</div>
 
@@ -13,7 +12,7 @@
 
 ## My Skill Set
 
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="100%">
 
 ### Tools
 
@@ -30,7 +29,7 @@
 
 </td><td valign="top" width="33%">
 
-</td></tr></table>
+</td></tr>
 
 <br/>
 
@@ -46,8 +45,7 @@
 <a href="https://dev.to/https://dev.to/gequise" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -56,8 +54,6 @@
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=gequise&show_icons=true&count_private=true&hide_border=true" align="left" />  
 </div>
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gequise&hide_border=true&layout=compact" align="right" /></div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gequise&&style=flat-square" align="center" />
